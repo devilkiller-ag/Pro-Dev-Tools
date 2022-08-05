@@ -9,9 +9,9 @@ ProDevTools provides a collection of excellent tools and learning resources that
 ## Tools
 
 1. **Make a Readme**
-<br>
+<!-- <br> -->
 Make readme file for your project with this awesome tool: <a href="https://www.makeareadme.com/" target="_blank">Make a Readme</a>.
 
 1. **Shields.io**
-<br>
+<!-- <br> -->
 <a href="https://shields.io/" target="_blank">Shields</a> help you to make and add badges to your README.
