@@ -8,18 +8,18 @@ ProDevTools provides a collection of excellent tools and learning resources that
 
 ## Tools
 
-1. **Make a Readme**
+**1. Make a Readme**
 <!-- <br> -->
 Make readme file for your project with this awesome tool: <a href="https://www.makeareadme.com/" target="_blank">Make a Readme</a>.
 
-2. **Shields.io**
+**2. Shields.io**
 <!-- <br> -->
 <a href="https://shields.io/" target="_blank">Shields</a> help you to make and add badges to your README.
 
-3. **Asciinema**
+**3. Asciinema**
 <!-- <br> -->
 Record and share your terminal sessions, the simple way with <a href="https://asciinema.org/" target="_blank">Asciinema</a>. Forget screen recording apps and blurry video. Enjoy a lightweight, purely text-based approach to terminal recording.
 
-4. **ttygif**
+**4. Ttygif**
 <!-- <br> -->
 <a href="https://github.com/icholy/ttygif" target="_blank">ttygif</a> converts a ttyrec file into gif files. It's a stripped down version of ttyplay that screenshots every frame.
